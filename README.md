@@ -6,7 +6,7 @@ Please Upload files in .zip format of the robot code, with the title indicating 
 ## Update
 - Added New code to the github
 
-**Coding Goals**
+## Coding Goals
 - Creating a program that automatically changes flywheel power depending on distance of the goal as well as rotating to the bot from any angle
 
 This is an example and the actual code will likely be different
